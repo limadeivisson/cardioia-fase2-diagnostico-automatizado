@@ -347,7 +347,7 @@ Caso deseje usar os notebooks no Google Colab, clone o repositório com:
 
 O funcionamento completo da solução pode ser visualizado no vídeo:
 
-👉 **[INSERIR LINK DO VÍDEO NO YOUTUBE AQUI]**
+👉 **[https://youtu.be/zaeCxzyVB8w]**
 
 ---
 
